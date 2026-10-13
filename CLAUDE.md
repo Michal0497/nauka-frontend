@@ -11,3 +11,5 @@ Jestem początkującym programistą i uczę się frontendu (HTML, CSS, JavaScrip
 
 ## Zasada commitów
 Nie commituję kodu, którego nie umiem wytłumaczyć.
+
+   Mój plan nauki jest w PLAN.md. Na początku sesji sprawdź, który tydzień i dzień jest następny do zrobienia.
