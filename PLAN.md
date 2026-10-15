@@ -131,7 +131,7 @@ Cel tygodnia: działające środowisko na Windowsie, pierwsze repo na GitHubie i
 - [x] Dzień 1: instalacja Git for Windows, VS Code, Node.js LTS i Claude Code; konfiguracja `git config` (imię, e-mail, gałąź `main`)
 - [x] Dzień 2: terminal (`pwd`, `ls`, `cd`, `mkdir`) i cykl Gita (`init`, `status`, `add`, `commit`, `log`); repo `nauka-frontend` z plikiem `CLAUDE.md`
 - [x] Dzień 3: konto na GitHubie, podłączenie repo, `git push`, `README.md`
-- [ ] Dni 4–6: podstawy HTML i semantyka; strona „O mnie”; pierwsze code review w Claude Code
+- [x dzień 4] Dni 4–6: podstawy HTML i semantyka; strona „O mnie”; pierwsze code review w Claude Code
 
 Sprawdzian na koniec tygodnia:
 
